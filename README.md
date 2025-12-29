@@ -156,4 +156,4 @@ public JSONObject updateDrug(@RequestBody Drugs drugs) {
 
 <img width="1054" height="131" alt="链接" src="https://github.com/user-attachments/assets/7f7d69f6-4ae1-4235-be59-3b5e19370ab0" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
