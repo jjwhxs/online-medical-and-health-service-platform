@@ -152,8 +152,6 @@ public JSONObject updateDrug(@RequestBody Drugs drugs) {
 2）修改application.yaml中的数据库配置文件，启动服务端，访问链接
 
 ### 获取方式(可远程调试)
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1054" height="131" alt="链接" src="https://github.com/user-attachments/assets/7f7d69f6-4ae1-4235-be59-3b5e19370ab0" />
+访问链接：https://mbd.pub/o/bread/mbd-aJeVlZdt
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
